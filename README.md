@@ -189,3 +189,9 @@ The project uses third-party software and model packages, including FastAPI, PyM
 **SmartCogniDoc — Local Vision-RAG Document Intelligence**
 
 Built a privacy-focused local document intelligence platform using SwiftUI, Python/FastAPI, Ollama, Vision LLMs, embeddings and ChromaDB. Implemented scanned-document understanding, semantic retrieval, grounded local LLM responses and page-level citations.
+
+## About
+Atreyee P.
+
+Senior iOS Developer exploring Generative AI and Agentic AI.
+
